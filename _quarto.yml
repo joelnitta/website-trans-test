@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  site-url: https://joelnitta.github.io/website-trans-test/
+  title: "website-trans-test"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+babelquarto:
+  mainlanguage: 'en'
+  languages: ['ja']
+title-ja: title in ja
+description-ja: description in ja
+author-ja: author in ja
+lang: en
