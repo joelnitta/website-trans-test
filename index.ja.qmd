@@ -2,7 +2,7 @@
 title: "babelsite"
 ---
 
-This is a Quarto website.
+ようこそ！
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
